@@ -1,6 +1,6 @@
 ----
 Project for cost of losing victims of sexual crime | Summer 2021, M.Sc. Economics, Bonn University | [Hyein Jeong](https://github.com/huiren-j)
-# Cost of losing victims sexual crime  <a class = "tocSkip">
+# Cost of losing human capital due to sexual crime  <a class = "tocSkip">
 ----
 
 **This repository** contains my research pursuing calcuating the social cost of losing victims of sexual crime.
